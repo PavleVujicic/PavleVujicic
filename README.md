@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Pavle.vujicic@hotmail.ca**
 
-- ⚡ Fun fact **I love playing Soccer**
+- ⚡ Fun fact **I played soccer professionally**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

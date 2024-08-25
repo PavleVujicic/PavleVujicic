@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2024/04/freecodecampl-github.png)](https://pavleportfolio.web.app)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)](https://pavleportfolio.web.app)
 <h1 align="center">Hi 👋, I'm Pavle Vujicic</h1>
 <h3 align="center">A passionate Computer Science Student from Ottawa, Ontario</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">

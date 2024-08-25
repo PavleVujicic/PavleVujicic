@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)](https://pavleportfolio.web.app)
+[![MasterHead](https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif)](https://pavleportfolio.web.app)
 <h1 align="center">Hi 👋, I'm Pavle Vujicic</h1>
 <h3 align="center">A passionate Computer Science Student from Ottawa, Ontario</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">

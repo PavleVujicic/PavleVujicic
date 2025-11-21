@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React, SQL and Sprint Boot**
 
-- 👨‍💻 All of my projects are available at [https://pavleportfolio.web.app](https://pavleportfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://pavlevujicic.com](https://pavlevujicic.com)
 
 - 💬 Ask me about **my portfolio website**
 
-- 📫 How to reach me **Pavle.vujicic@hotmail.ca**
+- 📫 How to reach me **Pavlevujicic@outlook.com**
 
 - ⚡ Fun fact **I played soccer professionally**
 
